@@ -1,0 +1,17 @@
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# secret key
+setting_secret.py
+
+# database
+*.sqlite3
+
+# venv
+myvenv/
+
+# image
+*.jpg
+*.png
